@@ -1,0 +1,118 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "sikh facts",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "gurunanakdevji",
+                    "slots": [],
+                    "samples": [
+                        "what are some facts about guru nanak dev ji",
+                        "tell me some facts about guru nanak dev ji "
+                    ]
+                },
+                {
+                    "name": "guruangaddevjji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts about guru angad dev ji",
+                        "what are some facts regarding guru angad dev ji"
+                    ]
+                },
+                {
+                    "name": "guruamardasji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts regarding guru amar das ji",
+                        "what are some facts regarding guru amar das ji"
+                    ]
+                },
+                {
+                    "name": "gururamdasji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts about guru ram das ji",
+                        "what are some facts regarding guru ram das ji "
+                    ]
+                },
+                {
+                    "name": "guruarjandevji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts regarding guru arjan dev ji",
+                        "what are some facts regarding guru arjan dev ji"
+                    ]
+                },
+                {
+                    "name": "guruhargobindji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts regarding guru hargobind ji ",
+                        "what are some facts regarding guru hargobind ji"
+                    ]
+                },
+                {
+                    "name": "guruharraiji",
+                    "slots": [],
+                    "samples": [
+                        "TELL ME SOME FACTS ABOUT GURU HAR RAI JI",
+                        "what are some facts regarding guru HAR RAI JI"
+                    ]
+                },
+                {
+                    "name": "guruharkrishanji",
+                    "slots": [],
+                    "samples": [
+                        "TELL ME SOME FACTS ABOUT GURU HARKRISHAN JI",
+                        "WHAT ARE SOME FACTS REGARDING GURU HARKRISHAN JI "
+                    ]
+                },
+                {
+                    "name": "guruteghbahadurji",
+                    "slots": [],
+                    "samples": [
+                        "TELL ME SOME FACTS ABOUT GURU TEGH BAHADUR JI",
+                        "WHAT ARE SOME FACTS REGARDING GURU TEGH BAHADUR JI"
+                    ]
+                },
+                {
+                    "name": "gurugobindsinghji",
+                    "slots": [],
+                    "samples": [
+                        "tell me some facts about guru gobind singh ji",
+                        "what are some facts regarding guru gobind singh ji"
+                    ]
+                },
+                {
+                    "name": "khalsa",
+                    "slots": [],
+                    "samples": [
+                        "when was khalsa panth created",
+                        "who is the creator of khalsa panth"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
