@@ -1,0 +1,71 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "randomised facts",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "india",
+                    "slots": [],
+                    "samples": [
+                        "what is special about india",
+                        "what are some random facts about india",
+                        "tell me some facts about india"
+                    ]
+                },
+                {
+                    "name": "usa",
+                    "slots": [],
+                    "samples": [
+                        "what are some interesting facts about the usa",
+                        "tell me some facts about the usa "
+                    ]
+                },
+                {
+                    "name": "russia",
+                    "slots": [],
+                    "samples": [
+                        "tell me some interesting facts about russia",
+                        "what are some interesting facts about russia"
+                    ]
+                },
+                {
+                    "name": "humans",
+                    "slots": [],
+                    "samples": [
+                        "what are some interesting facts about the human body",
+                        "tell me some interesting facts about the human body"
+                    ]
+                },
+                {
+                    "name": "worldwars",
+                    "slots": [],
+                    "samples": [
+                        "tell me some interesting facts about world war two",
+                        "tell me some interesting facts about world war one"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
